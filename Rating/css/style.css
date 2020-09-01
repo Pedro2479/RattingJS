@@ -1,0 +1,24 @@
+*{
+
+    box-sizing: border-box;
+   }
+    
+ 
+body{
+  margin:0;
+    background-color: beige;
+    font-family: sans-serif;
+}
+.caja{
+    max-width: 600px;
+    margin:40px auto;
+    padding:50px;
+}
+
+.caja .ratting .fa{
+    font-size:40px;
+}
+
+.fa{
+color:green;
+}
