@@ -10,7 +10,8 @@ body{
     font-family: sans-serif;
 }
 .caja{
-    max-width: 600px;
+    max-width: 400px;
+
     margin:40px auto;
     padding:50px;
 }
